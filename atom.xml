@@ -6,7 +6,7 @@
   <link href="http://suspicman.github.io/atom.xml" rel="self"/>
   
   <link href="http://suspicman.github.io/"/>
-  <updated>2022-10-19T16:12:49.570Z</updated>
+  <updated>2022-10-19T16:22:53.182Z</updated>
   <id>http://suspicman.github.io/</id>
   
   <author>
@@ -17,11 +17,35 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>備忘録としてのHexo、そしてGithub Pages</title>
+    <link href="http://suspicman.github.io/2022/10/20/hexo4memo/"/>
+    <id>http://suspicman.github.io/2022/10/20/hexo4memo/</id>
+    <published>2022-10-19T16:17:38.000Z</published>
+    <updated>2022-10-19T16:22:53.182Z</updated>
+    
+    <content type="html"><![CDATA[<p>とりあえず立ち上げた</p><p>Hexoを選んだ理由は数あるSSGの中でも楽そうだったため</p><p>利用したHexo Theme → <a href="https://github.com/cofess/hexo-theme-pure">cofess&#x2F;hexo-theme-pure</a></p><p>これからPowershell ScriptやVBAなどで作ったものや作り途中のものを上げていく予定</p><p><del>今日はもう寝る</del></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;とりあえず立ち上げた&lt;/p&gt;
+&lt;p&gt;Hexoを選んだ理由は数あるSSGの中でも楽そうだったため&lt;/p&gt;
+&lt;p&gt;利用したHexo Theme → &lt;a href=&quot;https://github.com/cofess/hexo-theme-pure&quot;&gt;cofess&amp;#x2F;h</summary>
+      
+    
+    
+    
+    <category term="general" scheme="http://suspicman.github.io/categories/general/"/>
+    
+    
+  </entry>
+  
+  <entry>
     <title>test post</title>
     <link href="http://suspicman.github.io/2022/10/20/test-post/"/>
     <id>http://suspicman.github.io/2022/10/20/test-post/</id>
-    <published>2022-10-20T00:58:35.000Z</published>
-    <updated>2022-10-19T16:12:49.570Z</updated>
+    <published>2022-10-19T15:58:35.000Z</published>
+    <updated>2022-10-19T16:21:55.895Z</updated>
     
     <content type="html"><![CDATA[<p>TEST POST</p>]]></content>
     
